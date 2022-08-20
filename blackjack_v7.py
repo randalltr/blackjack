@@ -1,6 +1,6 @@
 """
 BLACKJACK GAME v7 (19 MAY 2020)
-by RANDALL TRZASKA
+by RANDALL TR
 """
 
 import random
